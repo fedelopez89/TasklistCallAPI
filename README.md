@@ -6,10 +6,10 @@ TruenorthAPI Node Challenge
 
 ```bash
 git clone 
-yarn install
+npm install
 ```
 
 ## Run 
 ```bash
-yarn start
+npm start
 ```
